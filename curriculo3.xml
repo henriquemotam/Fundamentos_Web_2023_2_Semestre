@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<curriculo>
+    <dados_pessoais>
+        <nome>Elon Musk</nome>
+        <data_nascimento>01/01/1970</data_nascimento>
+        <email>elon@mail.com</email>
+        <telefone>(83)9999-9999</telefone>
+    </dados_pessoais>
+    <dados_profissionais>
+        <sumario>
+            <endereco>
+                <rua>Av. 1 de Maio, 720</rua>
+                <cidade>João Pessoa, PB</cidade>
+                <bairro>Jaguaribe</bairro>
+            </endereco>
+            <experiencias>
+                <experiencia>
+                    <empresa>SpaceX</empresa>
+                    <cargo>CEO e CTO</cargo>
+                    <periodo>2016 - Atual</periodo>
+                </experiencia>
+                <experiencia>
+                    <empresa>Tesla</empresa>
+                    <cargo>CEO</cargo>
+                    <periodo>2014 - Atual</periodo>
+                </experiencia>
+            </experiencias>
+            <competencias>
+                <tecnologia>Javascript</tecnologia>
+                <tecnologia>CSS</tecnologia>
+                <tecnologia>HTML</tecnologia>
+                <tecnologia>XML</tecnologia>
+            </competencias>
+            <dados_academicos>
+                <formacao_academica>
+                    <instituicao_academica>Instituto Federal de Educação, Ciência e Tecnologia da Paraíba</instituicao_academica>
+                    <titulo>Mestrado Profissional em Informática</titulo>
+                    <periodo>2016 - Atual</periodo>
+                </formacao_academica>
+                <formacao_academica>
+                    <instituicao_academica>Instituto Federal de Educação, Ciência e Tecnologia da Paraíba</instituicao_academica>
+                    <titulo>Curso Superior em Tecnologia em Sistemas para Internet</titulo>
+                    <periodo>2010 - 2013</periodo>
+                </formacao_academica>
+            </dados_academicos>
+        </sumario>
+    </dados_profissionais>
+</curriculo>
